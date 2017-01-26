@@ -1,0 +1,2 @@
+C:\Users\local\Desktop\poprawa122646\Kolej\bin\Debug\Kolej.exe.config
+C:\Users\local\Desktop\poprawa122646\Kolej\obj\Debug\Kolej.csprojResolveAssemblyReference.cache
